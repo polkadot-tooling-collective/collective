@@ -14,7 +14,7 @@ This repo consists of three main folders as configured by its `collective.yaml` 
 
 > *NOTE* At the current time we only accept accomplished developers. Please refrain from applying if you did not contribute to the mission of PoToC in the past.
 
-To join PoToc, please fork this repository and create a Request for Admission, following [this](https://github.com/super-collective/collective-cli/blob/1d019d4dd5120db8f8517df7bfb64d19eac74b69/example/join_request.yaml) format. There is currently no JSON schema for this layout, but hopefully you can infer the structure of the file. You can also use the [CLI](https://github.com/super-collective/collective-cli?tab=readme-ov-file#creating-a-request-for-admission---interactive) to create the file.
+To join PoToc, please fork this repository and create a Request for Admission, following [this](https://github.com/super-collective/collective-cli/blob/59d76d09c711250224803b4f6a6d91be260932a2/example/join_request.yaml) format. There is currently no JSON schema for this layout, but hopefully you can infer the structure of the file. You can also use the [CLI](https://github.com/super-collective/collective-cli?tab=readme-ov-file#creating-a-request-for-admission---interactive) to create the file.
 
 Then please open a Merge Request to this repository to add your request file. It should be in the `join_request` folder. Once that is merged, you are a member of PoToC!
 
