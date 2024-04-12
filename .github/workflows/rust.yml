@@ -1,0 +1,27 @@
+name: Check Files
+
+on:
+  push:
+    branches: [ "master" ]
+  pull_request:
+    branches: [ "master" ]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Install CLI
+      run: time cargo install collective --locked --quiet && collective --version
+    - name: Validate Requests
+      run: collective check join-request
+    - name: Validate Evidence
+      run: collective check evidence
