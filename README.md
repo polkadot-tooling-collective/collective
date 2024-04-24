@@ -33,7 +33,7 @@ member:
   rank: 0
 date: 2024-04-09
 about: "My name was originally Homer Simpson, but now ..."
-motivation: "I want to help Polkadot grow, because ..."
+motivation: "I want to keep building Polkadot tooling, because ..."
 evidence:
 - title: PolkadotJS
   category: d_app_tooling
