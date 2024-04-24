@@ -16,9 +16,9 @@ All the structural decisions here are made in line with the guidelines of the [s
 
 > *NOTE* At the current time we only accept accomplished developers. Please refrain from applying if you did not contribute to the mission of PoToC in the past.
 
-To join PoToc, please fork this repository and create a Request for Admission, following [this](https://github.com/super-collective/collective-cli/blob/59d76d09c711250224803b4f6a6d91be260932a2/example/join_request.yaml) format. There is currently no JSON schema for this layout, but hopefully you can infer the structure of the file. You can also use the [CLI](https://github.com/super-collective/collective-cli?tab=readme-ov-file#creating-a-request-for-admission---interactive) to create the file.
+To join PoToc, please fork this repository and create a Request for Admission, following [this](https://github.com/super-collective/collective-cli/blob/7d4a1a785396a2e29199a3d16115b67a4e8d9054/schema/potoc.join_request.schema.json) format. You can also use the [CLI](https://github.com/super-collective/collective-cli?tab=readme-ov-file#creating-a-request-for-admission---interactive) to create the file. In either case, please read the [constitution](https://github.com/polkadot-tooling-collective/constitution) and acknowledge the mission of PoToC.
 
-Then please open a Merge Request to this repository to add your request file. It should be in the `join_request` folder. Once that is merged, you are a member of PoToC!  An entry in the `member` folder will be created for you to reflect this.
+Then please open a Merge Request to this repository to add your request file. It should be in the `join_request` folder. See the application from [Nikos](https://github.com/polkadot-tooling-collective/collective/pull/1) as example. Once that is merged, you are a member of PoToC!  An entry in the `member` folder will be created for you to reflect this.
 
 ### Example
 
@@ -33,7 +33,7 @@ member:
   rank: 0
 date: 2024-04-09
 about: "My name was originally Homer Simpson, but now ..."
-motivation: "I want to help Polkadot grow, because ..."
+motivation: "I want to keep building Polkadot tooling, because ..."
 evidence:
 - title: PolkadotJS
   category: d_app_tooling
