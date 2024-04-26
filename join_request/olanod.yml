@@ -1,0 +1,28 @@
+collective: Potoc
+member:
+  name: Daniel Olano
+  address: 15oLanodWWweiZJSoDTEBtrX7oGfq6e8ct5y5E6fVRDPhUgj
+  github: olanod
+  rank: 0
+date: 2024-04-26T09:32:33.595Z
+about: Founder of Virto, a treasury funded initiative to develop Polkadot
+  technology to create real-word impact.
+motivation: With the Virto team I have developed several client side tools now
+  packed under the "virto-sdk" repository that help creating lightweight
+  applications that work on ANY platform with the same code base(web, mobile,
+  server, embedded). It including wallets(libwallet), blockchain
+  clients(sube+scales) and we keep researching ways to make building cross chain
+  applications even easier.
+evidence:
+  - title: Design+Implement the VirtoSDK
+    category: d_app_tooling
+    tasks:
+      - title: SCALE (de)serializer
+        links:
+          - https://github.com/virto-network/virto-sdk/tree/main/scales
+      - title: LibWallet
+        links:
+          - https://github.com/virto-network/virto-sdk/tree/main/libwallet
+      - title: Sube
+        links:
+          - https://github.com/virto-network/virto-sdk/tree/main/sube
