@@ -1,0 +1,65 @@
+collective: Potoc
+member:
+  name: Luke Schoen
+  address: 1dsrQjL34njJ4Y8FXGyxeLnmunPZ6XAvid9jSQe9S4pTUh2
+  github: ltfschoen
+  rank: 1
+date: 2024-04-26T21:18:25Z
+about: "I worked at Parity Technologies during 2018 and 2019 then at MXC Foundation 2019-2022 where I built and deployed DataHighway parachain on Kusama network. I now work as an independent open-source contributor to Polkadot ecosystem products, libraries, and tools. I contribute to Substrate and Polkadot Beta on Stack Exchange https://substrate.stackexchange.com/users/83/luke-schoen."
+motivation: "I am motivated to build accessible products, libraries, and tools, particularly those related to improving governance, productivity, and accountability"
+evidence:
+  - title: XCM Template
+    category: d_app_tooling
+    tasks:
+      - title: creator and maintainer
+        links:
+          - https://github.com/ltfschoen/XCMTemplate/issues?q=author:ltfschoen
+          - https://github.com/ltfschoen/XCMTemplate/pulls?q=author:ltfschoen
+  - title: FlappyTips
+    category: d_app_tooling
+    tasks:
+      - title: creator and maintainer
+        links:
+          - https://github.com/ltfschoen/flappytips/issues?q=author:ltfschoen
+          - https://github.com/ltfschoen/flappytips/pulls?q=author:ltfschoen
+  - title: Cargo Contract
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/use-ink/cargo-contract/issues?q=author:ltfschoen
+          - https://github.com/use-ink/cargo-contract/pulls?q=author:ltfschoen
+  - title: Polkadot-JS Apps
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/polkadot-js/apps/issues?q=author:ltfschoen
+          - https://github.com/polkadot-js/apps/pulls?q=author:ltfschoen
+  - title: Polkadot-JS Extension
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/polkadot-js/extension/issues?q=author:ltfschoen
+          - https://github.com/polkadot-js/extension/pulls?q=author:ltfschoen
+  - title: Polkadot-JS API
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/polkadot-js/api/issues?q=author%3Altfschoen
+          - https://github.com/polkadot-js/api/pulls?q=author%3Altfschoen
+  - title: Polkadot-JS Common
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/polkadot-js/common/issues?q=author%3Altfschoen
+          - https://github.com/polkadot-js/common/pulls?q=author%3Altfschoen
+  - title: Polkassembly
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/polkassembly/polkassembly/pulls?q=author%3Altfschoen
