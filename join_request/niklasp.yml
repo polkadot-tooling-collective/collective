@@ -27,6 +27,12 @@ evidence:
       - title: useInkathon Improvement Proposals
         links:
           - https://github.com/scio-labs/use-inkathon/issues
+  - title: Polkadot Weigher: Current and historic Block Consumption Dashboard
+    category: d_app_tooling
+    tasks:
+      - title: OSS Dashboard for tracking block consumption of Polkadot and Kusama
+        links:
+          - https://github.com/RegionX-Labs/CorespaceWeigher-ui/pull/2
   - title: polkadot.study
     category: d_app_tooling
     tasks:
