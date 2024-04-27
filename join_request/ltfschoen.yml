@@ -5,7 +5,7 @@ member:
   github: ltfschoen
   rank: 1
 date: 2024-04-26T21:18:25Z
-about: "I worked at Parity Technologies during 2018 and 2019 then at MXC Foundation 2019-2022 where I built and deployed DataHighway parachain on Kusama network. I now work as an independent open-source contributor to Polkadot ecosystem products, libraries, and tools. I contribute to Substrate and Polkadot Beta on Stack Exchange https://substrate.stackexchange.com/users/83/luke-schoen."
+about: "I am an independent open-source contributor to Polkadot ecosystem products, libraries, and tools. I previously worked at Parity and MXC Foundation. I contribute to Substrate and Polkadot Beta on Stack Exchange https://substrate.stackexchange.com/users/83/luke-schoen."
 motivation: "I am motivated to build accessible products, libraries, and tools, particularly those related to improving governance, productivity, and accountability"
 evidence:
   - title: XCM Template
@@ -20,8 +20,27 @@ evidence:
     tasks:
       - title: creator and maintainer
         links:
-          - https://github.com/ltfschoen/flappytips/issues?q=author:ltfschoen
-          - https://github.com/ltfschoen/flappytips/pulls?q=author:ltfschoen
+          - https://github.com/ltfschoen/flappytips
+  - title: NFT Coretime
+    category: d_app_tooling
+    tasks:
+      - title: creator and maintainer
+        links:
+          - https://github.com/ltfschoen/nft-coretime
+  - title: PolkadotJSTest
+    category: d_app_tooling
+    tasks:
+      - title: creator and maintainer
+        links:
+          - https://github.com/ltfschoen/PolkadotJSTest
+  - title: RustTest
+    category: d_app_tooling
+    tasks:
+      - title: creator and maintainer
+        links:
+          - https://github.com/ltfschoen/RustTest
+          - https://github.com/ltfschoen/RustTest/blob/master/projects/endow
+          - https://github.com/ltfschoen/RustTest/tree/master/projects/jsonrpsee_pubsub
   - title: Cargo Contract
     category: d_app_tooling
     tasks:
@@ -48,18 +67,426 @@ evidence:
     tasks:
       - title: contributor
         links:
-          - https://github.com/polkadot-js/api/issues?q=author%3Altfschoen
-          - https://github.com/polkadot-js/api/pulls?q=author%3Altfschoen
+          - https://github.com/polkadot-js/api/issues?q=author:ltfschoen
+          - https://github.com/polkadot-js/api/pulls?q=author:ltfschoen
   - title: Polkadot-JS Common
     category: d_app_tooling
     tasks:
       - title: contributor
         links:
-          - https://github.com/polkadot-js/common/issues?q=author%3Altfschoen
-          - https://github.com/polkadot-js/common/pulls?q=author%3Altfschoen
+          - https://github.com/polkadot-js/common/issues?q=author:ltfschoen
+          - https://github.com/polkadot-js/common/pulls?q=author:ltfschoen
+  - title: Polkadot-JS Tools
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/polkadot-js/tools/issues?q=author:ltfschoen
+  - title: Parity Signer
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/novasamatech/parity-signer/issues?q=author:ltfschoen
   - title: Polkassembly
     category: d_app_tooling
     tasks:
       - title: contributor
         links:
-          - https://github.com/polkassembly/polkassembly/pulls?q=author%3Altfschoen
+          - https://github.com/polkassembly/polkassembly/pulls?q=author:ltfschoen
+  - title: Polkabot
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://gitlab.com/Polkabot/polkabot/-/commit/997b4bc774009c1fcd6e30beba3ffc38a8ea18c2
+  - title: SubXT
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/subxt/issues?q=author:ltfschoen
+  - title: DataHighway-DHX
+    category: d_app_tooling
+    tasks:
+      - title: 
+        links:
+          - https://github.com/DataHighway-DHX
+          - https://github.com/DataHighway-DHX/open-polkadot-js-library
+  - title: ink!
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/use-ink/ink/issues?q=author:ltfschoen
+          - https://github.com/use-ink/ink/pulls?q=author:ltfschoen
+  - title: Swanky CLI
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/inkdevhub/swanky-cli/issues?q=author:ltfschoen
+          - https://github.com/AstarNetwork/wasm-flipper/pull/13
+  - title: PAPI React & Decode Viewer Examples
+    category: d_app_tooling
+    tasks:
+      - title: contributor (e.g. documentation readme)
+        links:
+          - https://github.com/polkadot-api/polkadot-api/pull/317
+  - title: Hyperbridge
+    category: core_tooling
+    tasks:
+      - title: contributor (e.g. setup instructions)
+        links:
+          - https://github.com/polytope-labs/hyperbridge/pulls?q=author:ltfschoen
+  - title: Unique Network
+    category: d_app_tooling
+    tasks:
+      - title: contributor (e.g. documentation examples)
+        links:
+          - https://github.com/UniqueNetwork/unique_docs/pull/148/files
+  - title: Analog
+    category: d_app_tooling
+    tasks:
+      - title: contributor (e.g. testnet feedback). Analog is an interoperability project built on the Polkadot SDK called Analog. Analog also allows for Polkadot parachains to connect with blockchains outside of the Polkadot ecosystem.
+        links:
+          - https://github.com/Analog-Labs/testnet_issue_tracker/issues?q=author:ltfschoen
+  - title: Polkadot SDK
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/polkadot-sdk/issues?q=author:ltfschoen
+          - https://github.com/paritytech/polkadot-sdk/pulls?q=author:ltfschoen
+  - title: Lastic XYZ
+    category: dapp_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/LasticXYZ/LasticUI/issues?q=author:ltfschoen
+          - https://github.com/LasticXYZ/LasticUI/pulls?q=author:ltfschoen
+  - title: Substrate Up
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/substrate-up/issues?q=author:ltfschoen
+          - https://github.com/paritytech/substrate-up/pulls?q=author:ltfschoen
+  - title: Substrate UI
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/substrate-ui/issues?q=author:ltfschoen
+  - title: Polkadot-JS Typescript Client
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/polkadot-js/client/issues?q=author:ltfschoen
+          - https://github.com/ltfschoen/polkadot-js-notes
+  - title: Edgeware Lockdrop
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/hicommonwealth/edgeware-lockdrop/issues?q=author:ltfschoen
+  - title: Edgeware Node
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/hicommonwealth/edgeware-node/issues?q=author:ltfschoen
+  - title: Scripts
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/scripts/pulls?q=author:ltfschoen
+  - title: Substrate
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/substrate/issues?q=author:ltfschoen
+          - https://github.com/paritytech/substrate/pulls?q=author:ltfschoen
+          - https://github.com/sgerrand/alpine-pkg-glibc/issues/192
+  - title: Polkadot
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/polkadot/issues?q=author:ltfschoen
+          - https://github.com/paritytech/polkadot/pulls?q=author:ltfschoen
+  - title: Substrate Contracts Node
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/substrate-contracts-node/issues?q=author:ltfschoen
+  - title: Substrate Telemetry
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/substrate-telemetry/issues?q=author:ltfschoen
+          - https://github.com/paritytech/substrate-telemetry/pulls?q=author:ltfschoen
+  - title: Substrate API Sidecar
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar/issues?q=author:ltfschoen
+  - title: JSONRPC
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/paritytech/jsonrpc/issues?q=author:ltfschoen
+          - https://github.com/paritytech/jsonrpc/issues?q=author:ltfschoen
+  - title: Substrate Node Template
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/substrate-developer-hub/substrate-node-template/pulls?q=author:ltfschoen
+  - title: Substrate Frontend Template Template
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/substrate-developer-hub/substrate-front-end-template/pulls?q=author:ltfschoen+
+  - title: Substrate Docs
+    category: core_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/substrate-developer-hub/substrate-docs/issues?q=author:ltfschoen
+          - https://github.com/substrate-developer-hub/substrate-docs/pulls?q=author:ltfschoen
+  - title: Webb Docs
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/webb-tools/webb-docs/issues?q=author:ltfschoen
+  - title: Polkaverse
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/dappforce/polkaverse/issues?q=author:ltfschoen+
+          - https://github.com/dappforce/polkaverse/pulls?q=author:ltfschoen
+  - title: Subsocial SubID
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/dappforce/subid/issues/79
+  - title: Sunshine Protocol
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/sunshine-protocol/sunshine/issues?q=author:ltfschoen
+  - title: Webb DApp
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/webb-tools/webb-dapp/issues?q=author:ltfschoen
+          - https://github.com/webb-tools/webb-dapp/pulls?q=author:ltfschoen
+  - title: MXC Wallet
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/mxc-foundation/mxc-wallet/pulls?q=author:ltfschoen
+  - title: Substrate Collectables Workshop
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/shawntabrizi/substrate-collectables-workshop/issues?q=author:ltfschoen
+  - title: Kusama Userguide
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/kusamanetwork/userguide/pull/48/files
+  - title: Phala DApp
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/Phala-Network/website-nextjs/issues/78
+  - title: Vara Arena
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/ImpulseDAO/Vara-Arena/issues?q=author:ltfschoen
+  - title: KoDaDot NFT Gallery
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/kodadot/nft-gallery/issues?q=author:ltfschoen
+  - title: Acala DApp
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/AcalaNetwork/Acala/issues?q=author:ltfschoen
+  - title: Zeitgeist DApp & SDK
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/zeitgeistpm/ui/issues?q=author:ltfschoen
+          - https://github.com/zeitgeistpm/sdk-next/issues?q=author:ltfschoen
+  - title: Joystream Pioneer DApp
+    category: d_app_tooling
+    tasks:
+      - title: raised issue
+        links:
+          - https://github.com/Joystream/pioneer/issues/4782
+  - title: Moonbeam Staking DApp
+    category: d_app_tooling
+    tasks:
+      - title: raised issue
+        links:
+          - https://github.com/moonbeam-foundation/moonbeam/issues/2617
+  - title: Multix
+    category: d_app_tooling
+    tasks:
+      - title: raised issue
+        links:
+          - https://github.com/ChainSafe/Multix/issues?q=author:ltfschoen
+  - title: Astar Docs
+    category: d_app_tooling
+    tasks:
+      - title: raised issue
+        links:
+          - https://github.com/AstarNetwork/astar-docs/issues/388
+          - https://github.com/AstarNetwork/astar-apps/issues/870
+  - title: Biconomy
+    category: d_app_tooling
+    tasks:
+      - title: contributor
+        links:
+          - https://github.com/ltfschoen/biconomy-client-sdk/pull/1
+          - https://github.com/Rahat-ch/biconomy-sdk-social-gasless-starter/pull/2
+  - title: Moonbeam Truuffe Box
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/moonbeam-foundation/moonbeam-truffle-box/issues/11
+  - title: Solang
+    category: d_app_tooling
+    tasks:
+      - title: raise issue relating to Solang integration with Cargo Contract
+        links:
+          - https://github.com/hyperledger/solang/issues/1346
+  - title: Kobold
+    category: d_app_tooling
+    tasks:
+      - title: try to integrate Polkadot.js into Kobold
+        links:
+          - https://github.com/maciejhirsz/kobold/pull/84
+  - title: Polkascan Python Substrate Interface
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/polkascan/py-substrate-interface/issues/343
+  - title: Open Emoji Battler
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/OpenEmojiBattler/open-emoji-battler/issues/120
+  - title: Moonbeam Docs
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/moonbeam-foundation/moonbeam-docs/commit/bb346272304095091f43ff09e958f90f9284c8a7
+  - title: Talisman Web
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/TalismanSociety/talisman-web/pull/547
+  - title: LiteJSON
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/xlc/lite-json/issues/20
+  - title: recipes
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/JoshOrndorff/recipes/issues/417
+  - title: Polkawallet Flutter
+    category: d_app_tooling
+    tasks:
+      - title: raise issue
+        links:
+          - https://github.com/polkawallet-io/polkawallet-flutter/issues/86
+  # - title: Substrate Contracts Workshop
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: contributor to archived repo
+  #       links:
+  #         - https://github.com/substrate-developer-hub/substrate-contracts-workshop/issues?q=author:ltfschoen
+  # - title: Substrate UXTO Workshop
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: contributor to archived repo
+  #       links:
+  #         - https://github.com/substrate-developer-hub/utxo-workshop/issues?q=author:ltfschoen
+  # - title: Substrate Light UI
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: contributor to archived repo
+  #       links:
+  #         - https://github.com/paritytech/substrate-light-ui/issues?q=author:ltfschoen
+  # - title: Fleetwood
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: contributor to archived repo
+  #       links:
+  #         - https://github.com/paritytech/fleetwood/issues?q=author:ltfschoen
+  # - title: Polkadot Matrix Chatbot
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: creator of old repo
+  #       links:
+  #         - https://github.com/ltfschoen/pbot
+  # - title: Webb.js
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: fix docs
+  #       links:
+  #         - https://github.com/webb-tools/webb.js/pull/307
+  # - title: Subsocial Web App
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: raise issue in repo that is now archived
+  #       links:
+  #         - https://github.com/dappforce/subsocial-web-app/issues/419
+  # - title: Straightedge Node
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: creator of old repo
+  #       links:
+  #         - https://github.com/ltfschoen/straightedge-node
+  # - title: Zeitgeist Documentation
+  #   category: d_app_tooling
+  #   tasks:
+  #     - title: raise issue
+  #       links:
+  #         - https://github.com/zeitgeistpm/documentation/pull/79/files
