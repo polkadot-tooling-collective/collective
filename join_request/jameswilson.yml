@@ -1,0 +1,29 @@
+collective: Potoc
+member:
+  name: James Wilson
+  address: 12TNvHiRkwzYqT5UZ86cfUvBeZBjLLYUzHLa4Hix99oTrgqT
+  github: jsdw
+  rank: 0
+date: 2024-04-30T14:23:36.539Z
+about: Technical lead at Parity with a focus on Rust tooling to interact with
+  Substrate based nodes.
+motivation: I have built, worked on, or helped to work on, a bunch of
+  tools/libraries in this area and hope that my experience will be useful in
+  helping others.
+evidence:
+  - title: Leading development of Subxt for >2 years
+    category: d_app_tooling
+    tasks:
+      - title: Leading development and contributing a bunch of features.
+        links:
+          - https://github.com/paritytech/subxt/commits/master/?author=jsdw
+  - title: Various libraries for SCALE encoding/decoding which Subxt builds on
+    category: d_app_tooling
+    tasks:
+      - title: Built various libraries from which Subxt now builds on eg those linked.
+        links:
+          - https://github.com/paritytech/scale-decode
+          - https://github.com/paritytech/scale-encode
+          - https://github.com/paritytech/scale-value
+          - https://github.com/paritytech/scale-info-legacy
+          - https://github.com/paritytech/scale-type-resolver
