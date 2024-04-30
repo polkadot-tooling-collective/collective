@@ -1,0 +1,24 @@
+collective: Potoc
+member:
+  name: Joseph Petrowski
+  address: 15DCWHQknBjc5YPFoVj8Pn2KoqrqYywJJ95BYNYJ4Fj3NLqz
+  github: joepetrowski
+  rank: 0
+date: 2024-04-30T13:41:59.751Z
+about: I have been working on Polkadot for a few years and worked on some of the
+  early tools for custodian integrations.
+motivation: I want to participate in making decentralized governance and
+  organizations work.
+evidence:
+  - title: OpenGov CLI
+    category: core_tooling
+    tasks:
+      - title: Development
+        links:
+          - https://github.com/joepetrowski/opengov-cli
+  - title: Specification of Substrate API Sidecar
+    category: d_app_tooling
+    tasks:
+      - title: Specification
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar
