@@ -1,0 +1,40 @@
+collective: Potoc
+member:
+  name: Carlo Sala
+  address: 16JskuojL6mSp6HNcjiHYa9jqksWbLD8L9YGWU1ppiPWQ9sa
+  github: carlosala
+  matrix: "@carlosala:matrix.org"
+  rank: 0
+date: 2024-05-01T13:11:48.019Z
+about:
+  Member of Polkadot-API team. Previously, I contributed inside Zondax to Polkadot (and other
+  Substrate-based chains) Ledger HW integration.
+motivation: I'd like to continue improving the Polkadot tooling, mainly focused
+  on Polkadot-API development. I'd also like to collaborate closely with other
+  projects to improve the tools around Polkadot and encourage new developers to
+  embark on a journey in Polkadot.
+evidence:
+  - title: HW Ledger Polkadot integration, transport, etc
+    category: d_app_tooling
+    tasks:
+      - title: Contributor
+        links:
+          - https://github.com/zondax/ledger-polkadot/commits?author=carlosala
+      - title: Contributor
+        links:
+          - https://github.com/zondax/ledger-kusama/commits?author=carlosala
+      - title: Contributor
+        links:
+          - https://github.com/zondax/ledger-substrate-js/commits?author=carlosala
+      - title: Contributor
+        links:
+          - https://github.com/polkadot-js/common/commits?author=carlosala
+  - title: Polkadot-API (recently joined, not many contributions yet)
+    category: d_app_tooling
+    tasks:
+      - title: Maintainer
+        links:
+          - https://github.com/polkadot-api/polkadot-api
+      - title: Maintainer
+        links:
+          - https://github.com/polkadot-api/polkadot-api-docs
