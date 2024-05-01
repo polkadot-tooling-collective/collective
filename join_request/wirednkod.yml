@@ -13,22 +13,22 @@ evidence:
   tasks:
   - title: Creation and Maintenance (until late 2023)
     links:
-    - https://github.com/paritytech/substrate-connect
+    - https://github.com/paritytech/substrate-connect/commits/main/?author=wirednkod
 - title: Zombienet v1
   category: core_tooling
   tasks:
   - title: Support until early 2023
     links:
-    - https://github.com/paritytech/zombienet
+    - https://github.com/paritytech/zombienet/commits/main/?author=wirednkod
 - title: PolkadotJS apps
   category: d_app_tooling
   tasks:
-  - title: Support
+  - title: Various issues - Support
     links:
-    - https://github.com/polkadot-js/apps
+    - https://github.com/polkadot-js/apps/commits/main/?author=wirednkod
 - title: Polkadot UI
   category: d_app_tooling
   tasks:
   - title: Creation and Maintenance
     links:
-    - https://github.com/polkadot-ui/library
+    - https://github.com/polkadot-ui
