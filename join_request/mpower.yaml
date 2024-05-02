@@ -1,0 +1,18 @@
+collective: Potoc
+member:
+  name: Max Power
+  address: '555555'
+  github: mpower
+  matrix: neo
+  rank: 1
+motivation: Polkadot best
+about: Something about my background
+date: 2024-04-16
+evidence:
+- title: PolkadotJS
+  category: core_tooling
+  tasks:
+  - title: Creation and Maintenance
+    links:
+    - https://something.com/
+    - https://else.com/
