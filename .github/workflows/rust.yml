@@ -26,7 +26,7 @@ jobs:
       id: changed-files-specific
       uses: tj-actions/changed-files@v44
       with:
-        files: join_request/**
+        files: join_request/*
 
     - name: Install CLI
       run: time cargo install collective --locked --quiet && collective --version
