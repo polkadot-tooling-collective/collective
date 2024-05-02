@@ -19,29 +19,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-      with:
-        fetch-depth: 0
-  
-    - name: Get changed files in the join_request folder
-      id: changed-files-specific
-      uses: tj-actions/changed-files@v44
-      with:
-        files: join_request/*
-
     - name: Install CLI
-      run: time cargo install collective --locked --quiet && collective --version
-    
-    - name: Run check for new join requests
-      if: steps.changed-files-specific.outputs.any_changed == 'true'
-      env:
-        ALL_CHANGED_FILES: ${{ steps.changed-files-specific.outputs.all_changed_files }}
       run: |
-        echo "One or more files in the join_request folder has changed."
-
-        for file in ${ALL_CHANGED_FILES}; do
-          echo "Running test for $file"
-          collective check join-request --files $file
-        done
-
+        wget https://github.com/super-collective/collective-cli/releases/download/v0.4.2/collective-x86_64-unknown-linux-musl -O collective
+        chmod +x collective
+        sudo mv collective /usr/local/bin/
+        collective --version
+  
+    - name: Validate Requests
+      run: collective check join-request
     - name: Validate Evidence
       run: collective check evidence
