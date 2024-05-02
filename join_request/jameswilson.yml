@@ -3,6 +3,7 @@ member:
   name: James Wilson
   address: 12TNvHiRkwzYqT5UZ86cfUvBeZBjLLYUzHLa4Hix99oTrgqT
   github: jsdw
+  matrix: @james.wilson:parity.io
   rank: 0
 date: 2024-04-30T14:23:36.539Z
 about: Technical lead at Parity with a focus on Rust tooling to interact with
