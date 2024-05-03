@@ -22,7 +22,7 @@ Quote form the [constitution](https://github.com/polkadot-tooling-collective/con
 >
 >This category contains all tools and libraries that are used to build on Polkadot and are predominantly developed for this cause.
 
-(This is my personal opinion on a 
+(this is a draft for anyone to comment on and challenge the decisions)
 
 ## DApp Tooling
 
