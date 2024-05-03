@@ -33,6 +33,7 @@ Quote form the [constitution](https://github.com/polkadot-tooling-collective/con
 - [Substrate Connect](https://github.com/paritytech/substrate-connect)
 - [Scale TS](https://npmjs.com/package/scale-ts)
 - [Zondax/ledger-substrate-js](https://github.com/zondax/ledger-substrate-js)
+- [Polkadot UI](https://github.com/polkadot-ui/library)
 
 ## Core Tooling
 
