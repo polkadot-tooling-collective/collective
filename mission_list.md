@@ -26,7 +26,7 @@ Quote form the [constitution](https://github.com/polkadot-tooling-collective/con
 
 ## DApp Tooling
 
-- [Polkadot-JS](https://github.com/polkadot-js/apps)
+- [Polkadot-JS API](https://github.com/polkadot-js/api)
 - [PAPI](https://www.npmjs.com/package/@polkadot-api/substrate-client)
 - [Chopsticks](https://github.com/AcalaNetwork/chopsticks)
 - [Zombienet](https://github.com/paritytech/zombienet) + [v2](https://github.com/paritytech/zombienet-sdk)
@@ -37,6 +37,7 @@ Quote form the [constitution](https://github.com/polkadot-tooling-collective/con
 
 ## Core Tooling
 
+- [Polkadot-JS Tools](https://github.com/polkadot-js/tools)
 - [SubXt](https://github.com/paritytech/subxt)
 - [Subway](https://github.com/AcalaNetwork/subway)
 - [Zepter](https://github.com/ggwpez/zepter)
