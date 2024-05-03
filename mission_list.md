@@ -32,6 +32,7 @@ Quote form the [constitution](https://github.com/polkadot-tooling-collective/con
 - [Zombienet](https://github.com/paritytech/zombienet) + [v2](https://github.com/paritytech/zombienet-sdk)
 - [Substrate Connect](https://github.com/paritytech/substrate-connect)
 - [Scale TS](https://npmjs.com/package/scale-ts)
+- [Zondax/ledger-substrate-js](https://github.com/zondax/ledger-substrate-js)
 
 ## Core Tooling
 
