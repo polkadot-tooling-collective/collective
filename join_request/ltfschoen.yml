@@ -377,7 +377,7 @@ evidence:
         links:
           - https://github.com/ltfschoen/biconomy-client-sdk/pull/1
           - https://github.com/Rahat-ch/biconomy-sdk-social-gasless-starter/pull/2
-  - title: Moonbeam Truuffe Box
+  - title: Moonbeam Truffle Box
     category: d_app_tooling
     tasks:
       - title: raise issue
