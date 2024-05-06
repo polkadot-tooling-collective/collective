@@ -107,13 +107,18 @@ evidence:
       - title: contributor
         links:
           - https://github.com/paritytech/subxt/issues?q=author:ltfschoen
+  - title: Open Polkadot-JS Library
+    category: d_app_tooling
+    tasks:
+      - title: 
+        links:
+          - https://github.com/ltfschoen/open-polkadot-js-library
   - title: DataHighway-DHX
     category: d_app_tooling
     tasks:
       - title: 
         links:
           - https://github.com/DataHighway-DHX
-          - https://github.com/DataHighway-DHX/open-polkadot-js-library
   - title: ink!
     category: d_app_tooling
     tasks:
