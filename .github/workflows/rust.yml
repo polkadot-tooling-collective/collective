@@ -20,7 +20,12 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Install CLI
-      run: time cargo install collective --locked --quiet && collective --version
+      run: |
+        wget https://github.com/super-collective/collective-cli/releases/latest/download/collective-x86_64-unknown-linux-musl -O collective
+        chmod +x collective
+        sudo mv collective /usr/local/bin/
+        collective --version
+  
     - name: Validate Requests
       run: collective check join-request
     - name: Validate Evidence

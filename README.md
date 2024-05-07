@@ -30,6 +30,7 @@ member:
   name: Max Power
   address: 12xToKVweE2YHRj818MZsiT7kCZpx5n8qdvz7wKMvwJuJE3T
   github: mpower
+  matrix: "neo:matrix.org"
   rank: 0
 date: 2024-04-09
 about: "My name was originally Homer Simpson, but now ..."
