@@ -1,0 +1,62 @@
+collective: Potoc
+member:
+  name: Tarik Gul
+  address: 13ogXJ1tpHZoaav2iQQRDH5eHcvpAEfwB1UFY6dijDBmDcic
+  github: TarikGul
+  matrix: '"@tarik-gul:parity.io"'
+  rank: 0
+date: 2024-05-10T13:29:24.469Z
+about: "I am a Software Engineer, mountaineer, long distance hiker, and soon to
+  be father. Professionally, I build tools for the polkadot ecosystem. My own
+  passions include cryptography, computational geometry, and all things TS +
+  Rust."
+motivation: My motivation to join the tooling collective is to bring positive 
+  impact to the decentralization of polkadot and be part of the growing onchain governance.
+  I have almost 4 years of experience in this ecosystem, and have built and maintained critical tools
+  such as Substrate-api-sidecar, txwrapper-core, asset-transfer-api, Polkadot-JS, and many more.
+evidence:
+  - title: Polkadot-JS
+    category: core_tooling
+    tasks:
+      - title: Maintainer of API
+        links:
+          - https://github.com/polkadot-js/api
+      - title: Maintainer of APPS
+        links:
+          - https://github.com/polkadot-js/apps
+      - title: Maintainer of DEV
+        links:
+          - https://github.com/polkadot-js/dev
+      - title: Maintainer of Tools
+        links:
+          - https://github.com/polkadot-js/tools
+      - title: Maintainer of UI
+        links:
+          - https://github.com/polkadot-js/UI
+      - title: Maintainer of Extension
+        links:
+          - https://github.com/polkadot-js/extension
+  - title: Substrate-api-sidecar
+    category: core_tooling
+    tasks:
+      - title: Core dev
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar
+  - title: asset-transfer-api
+    category: core_tooling
+    tasks:
+      - title: Core dev
+        links:
+          - https://github.com/paritytech/asset-transfer-api
+  - title: txwrapper-core
+    category: core_tooling
+    tasks:
+      - title: Core dev
+        links:
+          - https://github.com/paritytech/txwrapper-core
+  - title: asset-transfer-api-registry
+    category: core_tooling
+    tasks:
+      - title: Core dev
+        links:
+          - https://github.com/paritytech/asset-transfer-api-registry
