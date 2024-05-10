@@ -16,6 +16,12 @@ evidence:
         links:
           - https://github.com/ltfschoen/XCMTemplate/issues?q=author:ltfschoen
           - https://github.com/ltfschoen/XCMTemplate/pulls?q=author:ltfschoen
+  - title: validator-scripts
+    category: core_tooling
+    tasks:
+      - title: creator and maintainer
+        links:
+          - https://github.com/ltfschoen/validator-scripts
   - title: FlappyTips
     category: d_app_tooling
     tasks:
