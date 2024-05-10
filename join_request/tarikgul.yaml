@@ -3,7 +3,7 @@ member:
   name: Tarik Gul
   address: 13ogXJ1tpHZoaav2iQQRDH5eHcvpAEfwB1UFY6dijDBmDcic
   github: TarikGul
-  matrix: '"@tarik-gul:parity.io"'
+  matrix: "@tarik-gul:parity.io"
   rank: 0
 date: 2024-05-10T13:29:24.469Z
 about: "I am a Software Engineer, mountaineer, long distance hiker, and soon to
@@ -11,7 +11,7 @@ about: "I am a Software Engineer, mountaineer, long distance hiker, and soon to
   passions include cryptography, computational geometry, and all things TS +
   Rust."
 motivation: My motivation to join the tooling collective is to bring positive 
-  impact to the decentralization of polkadot and be part of the growing onchain governance.
+  impact to aspects of the decentralization of polkadot, and help make other developer experiences better.
   I have almost 4 years of experience in this ecosystem, and have built and maintained critical tools
   such as Substrate-api-sidecar, txwrapper-core, asset-transfer-api, Polkadot-JS, and many more.
 evidence:
