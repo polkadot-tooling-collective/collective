@@ -28,12 +28,6 @@ evidence:
       - title: creator and maintainer
         links:
           - https://github.com/ltfschoen/flappytips
-  - title: NFT Coretime
-    category: d_app_tooling
-    tasks:
-      - title: creator and maintainer
-        links:
-          - https://github.com/ltfschoen/nft-coretime
   - title: RustTest
     category: d_app_tooling
     tasks:
