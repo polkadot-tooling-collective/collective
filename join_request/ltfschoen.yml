@@ -13,7 +13,7 @@ evidence:
     category: d_app_tooling
     tasks:
       - title: creator and maintainer
-        links:
+        links:f
           - https://github.com/ltfschoen/XCMTemplate/issues?q=author:ltfschoen
           - https://github.com/ltfschoen/XCMTemplate/pulls?q=author:ltfschoen
   - title: validator-scripts
@@ -34,12 +34,6 @@ evidence:
       - title: creator and maintainer
         links:
           - https://github.com/ltfschoen/nft-coretime
-  - title: PolkadotJSTest
-    category: d_app_tooling
-    tasks:
-      - title: creator and maintainer
-        links:
-          - https://github.com/ltfschoen/PolkadotJSTest
   - title: RustTest
     category: d_app_tooling
     tasks:
@@ -116,7 +110,7 @@ evidence:
   - title: Open Polkadot-JS Library
     category: d_app_tooling
     tasks:
-      - title: 
+      - title: creator and maintainer
         links:
           - https://github.com/ltfschoen/open-polkadot-js-library
   - title: DataHighway-DHX
