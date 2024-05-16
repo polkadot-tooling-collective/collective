@@ -1,54 +1,54 @@
 # Mission List
 
-Quote form the [constitution](https://github.com/polkadot-tooling-collective/constitution):
-
->The Mission List contains all projects and services that are maintained by PoToC.
->
->It is divided into two sections, solely to keep the requirements of each section clearly defined; Core and dApp.
->It can be updated through an on-chain 2/3-majority rank-weighted vote across all Members.
->
->Some obvious cornerstones that must be upheld by all projects are:
->
->- Must be FOSS (Free and Open-Source Software).
->- Source code must be accessible without a login requirement.
->- All members of PoToC must have permission to propose changes and raise issues.
->- The Mission List will be defined as part of the initial seeding.
->
->Core Tooling
->
->Generally, all tools that are used by The Fellowship to craft, test, and validate updates fall into this category. But only the tools that are predominantly developed for this cause shall be maintained by PoToC. For example, the Rust language is not predominantly developed for Polkadot; hence, it does not fit here.
->
->dApp Tooling
->
->This category contains all tools and libraries that are used to build on Polkadot and are predominantly developed for this cause.
+This list states the projects that PoToC maintains, as required by the [constitution](https://github.com/polkadot-tooling-collective/constitution):
 
 (this is a draft for anyone to comment on and challenge the decisions)
 
-## DApp Tooling
+## dApp Developer Tooling
+
+Quote from the constitution:
+>This category contains all tools and libraries that help to build on Polkadot and are predominantly developed for this cause. Ideally, it should provide all pieces of software that are needed for a developer to build a dApp on Polkadot.
+>
+>It specifically aims at developers - not end-users. Things like wallets, explorers, dashboards etc. are out of scope for this very cause.
+
+### Fundamentals
+
+>Software that lays the basis for a dApp project. They connect to the Polkadot network and offer rich possibilities to interact with it.
+Some examples would be: sending transactions, subscribing to block headers or decoding and storage.
 
 - [Polkadot-JS API](https://github.com/polkadot-js/api)
 - [PAPI](https://www.npmjs.com/package/@polkadot-api/substrate-client)
-- [Chopsticks](https://github.com/AcalaNetwork/chopsticks)
-- [Zombienet](https://github.com/paritytech/zombienet) + [v2](https://github.com/paritytech/zombienet-sdk)
-- [Substrate Connect](https://github.com/paritytech/substrate-connect)
-- [Scale TS](https://npmjs.com/package/scale-ts)
-- [Zondax/ledger-substrate-js](https://github.com/zondax/ledger-substrate-js)
-- [Polkadot UI](https://github.com/polkadot-ui/library)
-
-## Core Tooling
-
-- [Polkadot-JS Tools](https://github.com/polkadot-js/tools)
 - [SubXt](https://github.com/paritytech/subxt)
-- [Subway](https://github.com/AcalaNetwork/subway)
-- [Zepter](https://github.com/ggwpez/zepter)
-- [Substrate Weight Compare](https://github.com/ggwpez/substrate-weight-compare)
-- [OpenGov CLI](https://github.com/joepetrowski/opengov-cli)
-- [Sidecar](https://github.com/paritytech/substrate-api-sidecar)
+- [Substrate Connect](https://github.com/paritytech/substrate-connect)
+- [asset-transfer-api](https://github.com/paritytech/asset-transfer-api)
+- [asset-transfer-api-registry](https://github.com/paritytech/asset-transfer-api-registry)
+- [txwrapper-core](https://github.com/paritytech/txwrapper-core)
+- [Zondax/ledger-substrate-js](https://github.com/zondax/ledger-substrate-js)
+- [Scale TS](https://npmjs.com/package/scale-ts)
 - [scale-*](https://github.com/paritytech/scale-decode), [more](https://github.com/polkadot-tooling-collective/collective/blob/dd96bc056dfa47f0bc6a885c7afd25ed78345a11/join_request/jameswilson.yml#L26)
-- [srtool](https://github.com/paritytech/srtool) (maintainer did not apply yet)
-- [subwasm](https://github.com/chevdor/subwasm) (ditto)
+
+### Extensions
+
+>Software in this tier depends on Fundamentals and extends their functionality. They may simplify and/or abstract certain functionality or tailor it to suite specific corner needs.
+
+- [Zombienet](https://github.com/paritytech/zombienet) + [v2](https://github.com/paritytech/zombienet-sdk)
+- [Chopsticks](https://github.com/AcalaNetwork/chopsticks)
+- [Polkadot UI](https://github.com/polkadot-ui/library)
+- [Sidecar](https://github.com/paritytech/substrate-api-sidecar)
+- [Polkadot-JS Tools](https://github.com/polkadot-js/tools)
+- [Subway](https://github.com/AcalaNetwork/subway)
 - [virto SDK/libwallet](https://github.com/virto-network/virto-sdk/tree/main/libwallet)
 - [virto SDK/scales](https://github.com/virto-network/virto-sdk/tree/main/scales)
+
+## General Developer Tooling
+
+>Projects that improve velocity and simplicity to develop on Polkadot. This category is not restricted to dApps, but can also include parachains, node software or similar.
+
+- [srtool](https://github.com/paritytech/srtool) (maintainer did not apply yet)
+- [subwasm](https://github.com/chevdor/subwasm) (ditto)
+- [Zepter](https://github.com/ggwpez/zepter)
+- [OpenGov CLI](https://github.com/joepetrowski/opengov-cli)
+- [Substrate Weight Compare](https://github.com/ggwpez/substrate-weight-compare)
 
 ## Undecided
 
