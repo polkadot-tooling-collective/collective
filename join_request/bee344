@@ -1,0 +1,80 @@
+collective: Potoc
+member:
+  name: Alberto Nicolás Penayo
+  address: 151S1YrZd4zfUYCeWhNERkGdmom8kdqAtRqtHwh9HYMTfFYJ
+  github: bee344
+  matrix: '"@bee344:parity.io"'
+  rank: 0
+date: 2024-05-22T17:58:07.068Z
+about: CPA, Finance Bachelor, main maintainer of Txwrapper-core and collaborator
+  of Substrate API Sidecar, Asset Transfer API, asset_cli_tool, and Polkadot-JS.
+motivation: Polkadot needs to be accessible in order to grow and become more
+  attractive for projects, and the tools we maintain are a big part of that.
+  These tools are meant as a way to facilitate building on Polkadot and as such
+  I think that their continued maintenance and development is essential, which
+  entails hours of research, development and keeping up with all the changes in
+  the runtime, clients, and the needs and wants of the ecosystem, so having
+  visibility and recognition for our job is from part of the Polkadot community
+  a great thing, specially if it comes with a DOT remuneration to help us
+  dedicate more time to these tools.
+evidence:
+  - title: Txwrapper-core Development
+    category: core_tooling
+    tasks:
+      - title: Added support for ChargeAssetConversionTxPayment
+        links:
+          - https://github.com/paritytech/txwrapper-core/pull/340
+      - title: Updated support for large tips
+        links:
+          - https://github.com/paritytech/txwrapper-core/pull/343
+      - title: Added support for AssetConversionPallet
+        links:
+          - https://github.com/paritytech/txwrapper-core/pull/371
+      - title: Added support for ForeignAssetsPallet
+        links:
+          - https://github.com/paritytech/txwrapper-core/pull/362
+      - title: Added support for PoolAssetsPallet
+        links:
+          - https://github.com/paritytech/txwrapper-core/pull/370
+  - title: Asset Transfer API Development
+    category: core_tooling
+    tasks:
+      - title: Updated registry to allow overrides instead of injection
+        links:
+          - https://github.com/paritytech/asset-transfer-api/pull/369
+      - title: Added e2e testing
+        links:
+          - https://github.com/paritytech/asset-transfer-api/pull/343
+      - title: Updated injectedRegistry to allow deep comparisons
+        links:
+          - https://github.com/paritytech/asset-transfer-api/pull/359
+  - title: Sidecar Development
+    category: core_tooling
+    tasks:
+      - title: Addition of endpoints for AssetConversionPallet
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar/pull/1437
+      - title: Assisted with staking query updates
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar/pull/1439
+      - title: Assisted in adding historic support for Kusama
+        links:
+          - https://github.com/paritytech/substrate-api-sidecar/pull/1397
+  - title: PolkadotJS API Support
+    category: core_tooling
+    tasks:
+      - title: Added SE
+        links:
+          - https://github.com/polkadot-js/api/pull/5882
+      - title: Fixed error with the assetId's type
+        links:
+          - https://github.com/polkadot-js/api/pull/5879
+      - title: Updated SE
+        links:
+          - https://github.com/polkadot-js/api/pull/5752
+  - title: PolkadotJS Apps Support
+    category: d_app_tooling
+    tasks:
+      - title: Adding support for Coretime
+        links:
+          - https://github.com/polkadot-js/apps/pull/10383
