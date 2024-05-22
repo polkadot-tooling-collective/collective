@@ -19,7 +19,7 @@ motivation: Polkadot needs to be accessible in order to grow and become more
   dedicate more time to these tools.
 evidence:
   - title: Txwrapper-core Development
-    category: core_tooling
+    category: d_app_tooling
     tasks:
       - title: Added support for ChargeAssetConversionTxPayment
         links:
@@ -37,7 +37,7 @@ evidence:
         links:
           - https://github.com/paritytech/txwrapper-core/pull/370
   - title: Asset Transfer API Development
-    category: core_tooling
+    category: d_app_tooling
     tasks:
       - title: Updated registry to allow overrides instead of injection
         links:
@@ -49,7 +49,7 @@ evidence:
         links:
           - https://github.com/paritytech/asset-transfer-api/pull/359
   - title: Sidecar Development
-    category: core_tooling
+    category: d_app_tooling
     tasks:
       - title: Addition of endpoints for AssetConversionPallet
         links:
@@ -73,7 +73,7 @@ evidence:
         links:
           - https://github.com/polkadot-js/api/pull/5752
   - title: PolkadotJS Apps Support
-    category: d_app_tooling
+    category: core_tooling
     tasks:
       - title: Adding support for Coretime
         links:
