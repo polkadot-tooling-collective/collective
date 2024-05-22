@@ -3,7 +3,7 @@ member:
   name: Alberto Nicolás Penayo
   address: 151S1YrZd4zfUYCeWhNERkGdmom8kdqAtRqtHwh9HYMTfFYJ
   github: bee344
-  matrix: '"@bee344:parity.io"'
+  matrix: "@bee344:parity.io"
   rank: 0
 date: 2024-05-22T17:58:07.068Z
 about: CPA, Finance Bachelor, main maintainer of Txwrapper-core and collaborator
