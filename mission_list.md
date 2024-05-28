@@ -52,6 +52,10 @@ Some examples would be: sending transactions, subscribing to block headers or de
 - [OpenGov CLI](https://github.com/joepetrowski/opengov-cli)
 - [Substrate Weight Compare](https://github.com/ggwpez/substrate-weight-compare)
 
+<!--
+
+(this section is not rendered)
+
 ## Excluded
 
 - [polkadot-JS extension](https://github.com/polkadot-js/extension): not a developer tool but end-user app.
@@ -61,3 +65,5 @@ Some examples would be: sending transactions, subscribing to block headers or de
 - [Polkadot JS test](https://github.com/ltfschoen/PolkadotJSTest)
 - [NFT coretime](https://github.com/ltfschoen/nft-coretime): no project description or explanation
 - [Flappy tips](https://github.com/ltfschoen/flappytips): game
+
+-->
