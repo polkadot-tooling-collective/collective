@@ -13,8 +13,8 @@ Quote from the constitution:
 
 ### Fundamentals
 
->Software that lays the basis for a dApp project. They connect to the Polkadot network and offer rich possibilities to interact with it.
-Some examples would be: sending transactions, subscribing to block headers or decoding and storage.
+>Software that lays the basis for a dApp project. They connect to the Polkadot network and offer rich possibilities to interact with it.  
+Some examples would be: sending transactions, subscribing to block headers or decoding and storage. 
 
 - [Polkadot-JS API](https://github.com/polkadot-js/api)
 - [PAPI](https://www.npmjs.com/package/@polkadot-api/substrate-client)
@@ -39,6 +39,8 @@ Some examples would be: sending transactions, subscribing to block headers or de
 - [Subway](https://github.com/AcalaNetwork/subway)
 - [virto SDK/libwallet](https://github.com/virto-network/virto-sdk/tree/main/libwallet)
 - [virto SDK/scales](https://github.com/virto-network/virto-sdk/tree/main/scales)
+- [virto SDK/sube](https://github.com/virto-network/virto-sdk/tree/main/sube)
+- [XCM Template](https://github.com/ltfschoen/XCMTemplate)
 
 ## General Developer Tooling
 
@@ -50,14 +52,12 @@ Some examples would be: sending transactions, subscribing to block headers or de
 - [OpenGov CLI](https://github.com/joepetrowski/opengov-cli)
 - [Substrate Weight Compare](https://github.com/ggwpez/substrate-weight-compare)
 
-## Undecided
+## Excluded
 
-- [virto SDK/sube](https://github.com/virto-network/virto-sdk/tree/main/sube)
-- [polkadot-JS extension](https://github.com/polkadot-js/extension)
-- [cypress polkadot wallet](https://github.com/ChainSafe/cypress-polkadot-wallet)
-- [Zondax Ledger](https://github.com/zondax/ledger-polkadot)
-- [Rust Test](https://github.com/ltfschoen/RustTest)
+- [polkadot-JS extension](https://github.com/polkadot-js/extension): not a developer tool but end-user app.
+- [cypress polkadot wallet](https://github.com/ChainSafe/cypress-polkadot-wallet): ditto
+- [Zondax Ledger](https://github.com/zondax/ledger-polkadot): ditto
+- [Rust Test](https://github.com/ltfschoen/RustTest): research project
 - [Polkadot JS test](https://github.com/ltfschoen/PolkadotJSTest)
-- [NFT coretime](https://github.com/ltfschoen/nft-coretime)
-- [Flappy tips](https://github.com/ltfschoen/flappytips)
-- [XCM Template](https://github.com/ltfschoen/XCMTemplate)
+- [NFT coretime](https://github.com/ltfschoen/nft-coretime): no project description or explanation
+- [Flappy tips](https://github.com/ltfschoen/flappytips): game
