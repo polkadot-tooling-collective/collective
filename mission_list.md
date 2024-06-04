@@ -1,8 +1,6 @@
 # Mission List
 
-This list states the projects that PoToC maintains, as required by the [constitution](https://github.com/polkadot-tooling-collective/constitution):
-
-(this is a draft for anyone to comment on and challenge the decisions)
+This list states the projects that PoToC maintains, as required by the [constitution](https://github.com/polkadot-tooling-collective/constitution?tab=readme-ov-file#mission-list).
 
 ## dApp Developer Tooling
 
@@ -51,19 +49,3 @@ Some examples would be: sending transactions, subscribing to block headers or de
 - [Zepter](https://github.com/ggwpez/zepter)
 - [OpenGov CLI](https://github.com/joepetrowski/opengov-cli)
 - [Substrate Weight Compare](https://github.com/ggwpez/substrate-weight-compare)
-
-<!--
-
-(this section is not rendered)
-
-## Excluded
-
-- [polkadot-JS extension](https://github.com/polkadot-js/extension): not a developer tool but end-user app.
-- [cypress polkadot wallet](https://github.com/ChainSafe/cypress-polkadot-wallet): ditto
-- [Zondax Ledger](https://github.com/zondax/ledger-polkadot): ditto
-- [Rust Test](https://github.com/ltfschoen/RustTest): research project
-- [Polkadot JS test](https://github.com/ltfschoen/PolkadotJSTest)
-- [NFT coretime](https://github.com/ltfschoen/nft-coretime): no project description or explanation
-- [Flappy tips](https://github.com/ltfschoen/flappytips): game
-
--->
