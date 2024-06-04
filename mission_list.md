@@ -44,7 +44,7 @@ Some examples would be: sending transactions, subscribing to block headers or de
 
 ## General Developer Tooling
 
->Projects that improve velocity and simplicity to develop on Polkadot. This category is not restricted to dApps, but can also include CLIs similar.
+>Projects that improve velocity and simplicity to develop on Polkadot. This category is not restricted to dApps, but can also include CLIs and similar.
 
 - [srtool](https://github.com/paritytech/srtool) (maintainer did not apply yet)
 - [subwasm](https://github.com/chevdor/subwasm) (ditto)
