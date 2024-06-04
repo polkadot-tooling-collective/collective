@@ -29,7 +29,7 @@ Some examples would be: sending transactions, subscribing to block headers or de
 
 ### Extensions
 
->Software in this tier depends on Fundamentals and extends their functionality. They may simplify and/or abstract certain functionality or tailor it to suite specific corner needs.
+>Software in this tier depends on Fundamentals and extends their functionality. They may simplify and/or abstract certain functionality or tailor it to suit specific corner needs.
 
 - [Zombienet](https://github.com/paritytech/zombienet) + [v2](https://github.com/paritytech/zombienet-sdk)
 - [Chopsticks](https://github.com/AcalaNetwork/chopsticks)
