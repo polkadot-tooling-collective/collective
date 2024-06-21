@@ -1,16 +1,23 @@
 # Polkadot Tooling Collective (PoToC)
 
-This repository holds a list of all members, requests for admission and work evidence of the Polkadot Tooling Collective as defined by its [constitution](https://github.com/polkadot-tooling-collective/constitution).  
-The files are managed by the [collective-cli](https://github.com/super-collective/collective-cli) to keep all files neatly sorted and in a machine-readable format. This allows for auditability and better accountability of past decisions.
+This repository is used to coordinate the Polkadot Tooling Collective and deliver on its [constitution](https://github.com/polkadot-tooling-collective/constitution). It provides the current list of members, applicants and the Mission List.
 
 ## Structure
 
-This repo consists of three main folders as configured by its `collective.yaml` file:
+Most files are managed with the [collective-cli](https://github.com/super-collective/collective-cli) to keep all files neatly sorted and in a machine-readable format. This allows for auditability and better accountability of past decisions.
+
+The four main parts are:
+- `mission_list.md`: All projects that PoToC maintains.
 - `member`: All members of the collective.
 - `join_request`: All accepted requests for admission.
-- `work_evidence`: Proof of done work.
+- `work_evidence`: Proof of done work by members.
 
 All the structural decisions here are made in line with the guidelines of the [super-collective](https://github.com/super-collective) to act as Proof-of-Concept for it.
+
+## Mission List
+
+Provides the projects that PoToC promises to maintain. This is done to have maximum clarity on scope of what PoToC should be doing
+with their funding. Find it in the [mission_list.md](mission_list.md)
 
 ## How to Join (Request for Admission)
 
