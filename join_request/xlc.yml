@@ -1,0 +1,23 @@
+collective: Potoc
+member:
+  name: Bryan
+  address: 14DsLzVyTUTDMm2eP3czwPbH53KgqnQRp3CJJZS9GR7yxGDP
+  matrix: "@xlchen:matrix.org"
+  github: xlc
+  rank: 0
+date: 2024-04-28T11:38:54.479Z
+about: CTO @ Acala, Dan IV @ Polkadot Core Fellowship
+motivation: Improve my life quality while building on Polkadot and help others at the same time
+evidence:
+  - title: Chopsticks
+    category: core_tooling
+    tasks:
+      - title: Core dev
+        links:
+          - http://github.com/AcalaNetwork/chopsticks
+  - title: Subway
+    category: core_tooling
+    tasks:
+      - title: Core dev
+        links:
+          - http://github.com/AcalaNetwork/subway
