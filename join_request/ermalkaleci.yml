@@ -1,0 +1,23 @@
+collective: Potoc
+member:
+  name: Ermal Kaleci
+  address: 14iKbZws1fjJ6TH27yoRq6KeeVNof83VmxUBN2W2udQVBe5o
+  matrix: ermalkaleci:matrix.org
+  github: ermalkaleci
+  rank: 0
+date: 2024-04-26T10:19:26.134Z
+about: Contributor to all Acala's and Laminar's FOSS projects since joined in 2019
+motivation: Still in love with Polkadot ecosystem
+evidence:
+  - title: Chopsticks
+    category: core_tooling
+    tasks:
+      - title: Development and Maintenance
+        links:
+          - https://github.com/AcalaNetwork/chopsticks
+  - title: Subway
+    category: core_tooling
+    tasks:
+      - title: Development and Maintenance
+        links:
+          - https://github.com/AcalaNetwork/subway
