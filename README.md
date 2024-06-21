@@ -7,9 +7,9 @@ This repository is used to coordinate the Polkadot Tooling Collective and delive
 Most files are managed with the [collective-cli](https://github.com/super-collective/collective-cli) to keep all files neatly sorted and in a machine-readable format. This allows for auditability and better accountability of past decisions.
 
 The four main parts are:
-- `mission_list.md`: All projects that PoToC maintains.
-- `member`: All members of the collective.
-- `join_request`: All accepted requests for admission.
+- [`mission_list.md`](./mission_list.md): All projects that PoToC maintains.
+- [`members.md`](./members.md): All members of the collective.
+- [`join_request`](./join_request/): All accepted requests for admission.
 - `work_evidence`: Proof of done work by members.
 
 All the structural decisions here are made in line with the guidelines of the [super-collective](https://github.com/super-collective) to act as Proof-of-Concept for it.

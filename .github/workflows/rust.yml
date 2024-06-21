@@ -19,6 +19,9 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+      with:
+        fetch-depth: 1
+
     - name: Install CLI
       run: |
         wget https://github.com/super-collective/collective-cli/releases/latest/download/collective-x86_64-unknown-linux-musl -O collective
@@ -30,3 +33,5 @@ jobs:
       run: collective check join-request
     - name: Validate Evidence
       run: collective check evidence
+    - name: Validate Members
+      run: collective check member
