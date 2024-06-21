@@ -1,0 +1,60 @@
+collective: Potoc
+member:
+  name: Victor Oliva Vidal
+  address: 16JGzEsi8gcySKjpmxHVrkLTHdFHodRepEz8n244gNZpr9J
+  matrix: @voliva:matrix.org
+  github: voliva
+  rank: 0
+date: 2024-05-01T14:04:34.094Z
+about: >-
+  Software engineer, with background on computer science.
+
+  Professionally, for the last 10 years I've been specialising in frontend of
+  real-time data systems: Risk asset management, market technical indicators,
+  and trading platforms with a monthly volume of up to 12 billion USD, with 3500
+  filled orders per day.
+
+  I've also built a library (as co-author) for bindings between React and RxJS,
+  which helps make applications with react that deal with real-time state.
+
+  Recently I have shifted to work on the polkadot blockchain, to build a library
+  for dApp developers, light-client first. I've recently been admitted to join
+  the Polkadot Blockchain Academy in Singapore to deepen my knowledge on this
+  technology.
+motivation: >-
+  I have a long-term vision of creating better tools for dApp developers,
+  getting involved with the community and finding new challenges to be solved.
+
+  I think there's a long road ahead, which much to learn as well as much to
+  contribute.
+evidence:
+  - title: Polkadot-API developer
+    category: d_app_tooling
+    tasks:
+      - title: add metadata docs to generated code
+        links:
+          - https://github.com/polkadot-api/polkadot-api/pull/291
+      - title: solve checksums with circular dependencies
+        links:
+          - https://github.com/polkadot-api/polkadot-api/pull/298
+      - title: add new CLI
+        links:
+          - https://github.com/polkadot-api/polkadot-api/pull/304
+      - title: reduce bundle size
+        links:
+          - https://github.com/polkadot-api/polkadot-api/pull/339
+      - title: fix duplicate descriptor types
+        links:
+          - https://github.com/polkadot-api/polkadot-api/pull/448
+      - title: adding tests to pre-existing code
+        links:
+          - https://github.com/polkadot-api/polkadot-api/pull/270
+      - title: docs site + content
+        links:
+          - https://github.com/polkadot-api/polkadot-api-docs
+  - title: Common-types tool
+    category: d_app_tooling
+    tasks:
+      - title: Design and implementation
+        links:
+          - https://github.com/polkadot-api/common-types-tool
