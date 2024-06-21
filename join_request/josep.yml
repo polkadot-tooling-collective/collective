@@ -1,0 +1,52 @@
+collective: Potoc
+member:
+  name: Josep M Sobrepere
+  address: 15roJ4ZrgrZam5BQWJgiGHpgp7ShFQBRNLq6qUfiNqXDZjMK
+  github: josepot
+  rank: 0
+date: 2024-05-01T12:42:14.833Z
+about: Technical Lead of the Polkadot-API team. Since late 2021, I have been
+  actively involved in the Polkadot ecosystem, contributing to the development
+  of various tools.
+motivation: I am committed to continuously enhancing the tools that will empower
+  both myself and others to develop decentralized applications on Polkadot.
+  Additionally, I am eager to collaborate with other tool developers, including
+  the Chopsticks team, to create synergies that improve the overall developer
+  experience on Polkadot.
+evidence:
+  - title: Polkadot-API
+    category: d_app_tooling
+    tasks:
+      - title: Author and maintainer
+        links:
+          - https://github.com/polkadot-api/polkadot-api/commits/main/?author=josepot
+  - title: scale-ts
+    category: d_app_tooling
+    tasks:
+      - title: Author
+        links:
+          - https://www.npmjs.com/package/scale-ts
+  - title: "@polkadot-api/substrate-client"
+    category: d_app_tooling
+    tasks:
+      - title: Author & Maintainer
+        links:
+          - https://www.npmjs.com/package/polkadot-api/substrate-client
+  - title: "@polkadot-api/metadata-builders"
+    category: d_app_tooling
+    tasks:
+      - title: Co-Author & Maintainer
+        links:
+          - https://www.npmjs.com/package/@polkadot-api/metadata-builders
+  - title: Substrate Connect
+    category: d_app_tooling
+    tasks:
+      - title: Many significant contributions
+        links:
+          - https://github.com/paritytech/substrate-connect/commits/main/?author=josepot
+  - title: Polkadot-Js
+    category: d_app_tooling
+    tasks:
+      - title: Added the light-client provider
+        links:
+          - https://github.com/polkadot-js/api/pull/4672

@@ -1,0 +1,23 @@
+collective: Potoc
+member:
+  name: Javier Viola
+  address: 12W3ea6jWKhzSWSCMjUKqtDwasRACeYFGkyvVb9Y9b5dGm2v
+  matrix: "@javier:parity.io"
+  github: pepoviola
+  rank: 0
+date: 2024-05-02T08:04:54.533Z
+about: Tech lead of the Zombienet team.
+motivation: I like to works on creating tools that improve developers experience.
+evidence:
+  - title: Zombienet v1
+    category: core_tooling
+    tasks:
+      - title: "Lead / Development "
+        links:
+          - https://github.com/paritytech/zombienet
+  - title: Zombienet v2
+    category: core_tooling
+    tasks:
+      - title: "Lead / Development "
+        links:
+          - https://github.com/paritytech/zombienet-sdk
