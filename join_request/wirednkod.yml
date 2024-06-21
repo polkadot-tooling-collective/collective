@@ -1,0 +1,35 @@
+collective: Potoc
+member:
+  name: Nikolaos Kontakis
+  address: 15DCZocYEM2ThYCAj22QE4QENRvUNVrDtoLBVbCm5x4EQncr
+  matrix: wirednkod:matrix.org
+  github: wirednkod
+  rank: 1
+date: 2024-04-12
+about: "I am Nikolaos Kontakis, starting in the beginning of 2021 as a Parity employee and for 3 years, I was working on Polkadot related tools/projects, mainly on Substrate-Connect and Zombienet. In addition to my professional commitments, I have dedicated my free time to crafting a UI library for polkadot (polkadot-ui - https://polkadot-ui.info). Currently I am working with Polkadot Blockchain Academy. In PolkadotJS, I've made contributions to Apps and API, particularly in the context of the integration with substrate-connect and light clients;I am one of the top contributors of Substrate-connect, and Zombienet."
+motivation: "My motivation is to build tools for making the web2 users to have an easier transition to web3 and find tools that will allow them faster to convert ideas to projects."
+evidence:
+- title: Substrate-Connect
+  category: core_tooling
+  tasks:
+  - title: Creation and Maintenance (until late 2023)
+    links:
+    - https://github.com/paritytech/substrate-connect/commits/main/?author=wirednkod
+- title: Zombienet v1
+  category: core_tooling
+  tasks:
+  - title: Support until early 2023
+    links:
+    - https://github.com/paritytech/zombienet/commits/main/?author=wirednkod
+- title: PolkadotJS apps
+  category: d_app_tooling
+  tasks:
+  - title: Various issues - Support
+    links:
+    - https://github.com/polkadot-js/apps/commits/main/?author=wirednkod
+- title: Polkadot UI
+  category: d_app_tooling
+  tasks:
+  - title: Creation and Maintenance
+    links:
+    - https://github.com/polkadot-ui
