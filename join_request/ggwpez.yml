@@ -1,0 +1,38 @@
+collective: Potoc
+member:
+  name: Oliver Tale-Yazdi
+  address: 16a357f5Sxab3V2ne4emGQvqJaCLeYpTMx3TCjnQhmJQ71DX
+  github: ggwpez
+  matrix: "@oliver.tale-yazdi:parity.io"
+  rank: 0
+date: 2024-04-26T09:29:27.450Z
+about: >
+  I started to work with Polkadot in 2022 after coming from the Ethereum world.
+  Polkadot immediately grabbed my attention for its impressive tech stack - not
+  so much the UI/UX 😅.  
+  I am still excited by Polkadot and think that we can have a big impact on the future by helping it grow.
+motivation: >
+  Polkadot has the best tech, now we just need to make it easy to use.
+
+  I saw the Decentralization happening and thought that now would be a
+  good time to add some Dev Tooling to the list of decentralized funded
+  projects. I would be happy to be part of a DAO in a permission- and trustless way.
+evidence:
+  - title: Zepter CLI
+    category: core_tooling
+    tasks:
+      - title: Development and Maintenance
+        links:
+          - https://github.com/ggwpez/zepter
+      - title: Integration
+        links:
+          - https://github.com/paritytech/polkadot-sdk/pull/1831
+  - title: Subweight
+    category: core_tooling
+    tasks:
+      - title: Development and Maintenance
+        links:
+          - https://github.com/ggwpez/substrate-weight-compare
+      - title: Webservice
+        links:
+          - https://weights.tasty.limo
