@@ -1,0 +1,71 @@
+collective: Potoc
+member:
+  name: Niklas
+  address: 5CwW67PPdZQQCcdWJVaRJCepSQSrtKUumDAGa7UZbBKwd9R2
+  matrix: @eennoo:matrix.org
+  github: niklasp
+  rank: 1
+date: 2024-04-27T14:32:34.952Z
+about: Frontend Dev with over 2 years in the Polkadot Ecosystem working in
+  different treasury funded projects with react and next.js. Worked for
+  polkadot.study, WagMedia, TheKus and recently first PR to useInkathon which I
+  want to develop further.
+motivation: I want to improve Developer Experience as I myself had a steep
+  learning curve with Polkadot at the beginning. There are many tools on my mind
+  that should be build to make onboarding dApp developers easier by e.g.
+  providing templates for popular frameworks like next.js and reusable
+  react  components for developers. With a regular income from the Tooling
+  collective I could make sure that "I could go the extra mile" of making
+  components I use in dApps regularly reusable and bundling it into packages so
+  they can be collectively used and improved by the community.
+evidence:
+  - title: useInkathon Contribution
+    category: d_app_tooling
+    tasks:
+      - title: Improve Wallet Selection merged PR
+        links:
+          - https://github.com/scio-labs/use-inkathon/pull/68
+      - title: useInkathon Improvement Proposals
+        links:
+          - https://github.com/scio-labs/use-inkathon/issues
+  - title: Polkadot Weigher: Current and historic Block Consumption Dashboard
+    category: d_app_tooling
+    tasks:
+      - title: OSS Dashboard for tracking block consumption of Polkadot and Kusama
+        links:
+          - https://github.com/RegionX-Labs/CorespaceWeigher-ui/pull/2
+  - title: polkadot.study
+    category: d_app_tooling
+    tasks:
+      - title: Creating a OSS platform for polkadot tutorials with docusaurus and custom
+          plugins
+        links:
+          - https://github.com/PolkadotStudy/polkadot.study
+  - title: Proofofchaos Mass NFT Minting and Voting Platform
+    category: d_app_tooling
+    tasks:
+      - title: Fully working governance tool on Polkadot + Kusama
+        links:
+          - https://www.proofofchaos.app/kusama/vote
+      - title: UI to allow customizable NFT sendouts to governance participants
+        links:
+          - https://www.proofofchaos.app/kusama/referendum-rewards
+  - title: Custom simple Staking dashboard for TheKus
+    category: d_app_tooling
+    tasks:
+      - title: OSS simple Staking + Delegation dashboard with focus on one validator
+        links:
+          - https://github.com/TheKusamarian/stake-n-vote
+      - title: forked by another project
+        links:
+          - https://www.trustedvalidators.xyz/
+  - title: WagMedia Polkadot News Infrastructure
+    category: d_app_tooling
+    tasks:
+      - title: "OSS Discord BOT for tracking community article contributions about
+          Polkadot "
+        links:
+          - https://github.com/Wag-Media/wagmedia-com-bot
+      - title: OSS next.js Website fed by bot's data (wip)
+        links:
+          - https://wagcom.vercel.app
