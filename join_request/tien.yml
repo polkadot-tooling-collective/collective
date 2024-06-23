@@ -1,0 +1,23 @@
+collective: Potoc
+member:
+  name: Tiến Nguyễn Khắc
+  address: 1HEYRDqQSTM98A8uRgz7kG6TE5kjjFq99qMD13C5ggjqKWe
+  github: tien
+  matrix: "@tiennk:matrix.org"
+  rank: 0
+date: 2024-06-23T06:42:24.755Z
+about: Ex-Talisman, now going independent.
+motivation: My goal is to exchange knowledge and collectively enhance the tools we create, thereby benefiting the broader ecosystem.
+evidence:
+  - title: Reactive DOT
+    category: d_app_tooling
+    tasks:
+      - title: Author & maintainer
+        links:
+          - https://reactivedot.dev/
+  - title: DOT Connect
+    category: d_app_tooling
+    tasks:
+      - title: Author & maintainer
+        links:
+          - https://github.com/tien/dot-connect
